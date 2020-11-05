@@ -6,8 +6,8 @@ echo : Higgs domino island
 #mega win 800.000.000
 #big win 300.000.000
 ============================>
-#ID :
-#PASSWORD :
+#ID :45517353
+#PASSWORD :628243
 ============================>
 LOADING......../|\|/|/
 
